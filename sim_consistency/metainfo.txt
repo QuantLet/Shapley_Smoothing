@@ -1,9 +1,0 @@
-Name of Quantlet: 'sim_consistency'
-
-Published in: ''
-
-Description: 'We conduct a simulation study in order to show consistency of component-based and integration-based Shapley curves.'
-
-Keywords: 'Shapley curves, consistency, simulation'
-
-Author: 'Ratmir Miftachov'
