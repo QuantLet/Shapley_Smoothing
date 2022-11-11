@@ -1,0 +1,9 @@
+Name of Quantlet: 'coverage'
+
+Published in: ''
+
+Description: 'We estimate the coverage probability for component-based and integration-based Shapley curves by bootstrap.'
+
+Keywords: 'coverage, confidence intervals, bootstrap'
+
+Author: 'Ratmir Miftachov'
