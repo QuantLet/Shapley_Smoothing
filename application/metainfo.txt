@@ -1,0 +1,9 @@
+Name of Quantlet: 'application'
+
+Published in: ''
+
+Description: 'We estimate the Shapley curves and provide bootstrapped confidence intervals for the U.S. vehicle price data.'
+
+Keywords: 'estimated Shapley curves, vehicle prices, confidence intervals, variable importance'
+
+Author: 'Ratmir Miftachov'
