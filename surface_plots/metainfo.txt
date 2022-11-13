@@ -1,0 +1,9 @@
+Name of Quantlet: 'surface_plots'
+
+Published in: ''
+
+Description: 'Estimated and population Shapley curves.'
+
+Keywords: 'Shapley curves, 3D'
+
+Author: 'Ratmir Miftachov'
