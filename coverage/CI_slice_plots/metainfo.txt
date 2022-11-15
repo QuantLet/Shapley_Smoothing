@@ -1,0 +1,9 @@
+Name of Quantlet: 'CI_slice_plots'
+
+Published in: ''
+
+Description: 'Slice plots with bootstrapped CI.'
+
+Keywords: 'Shapley curves, CI, bootstrap'
+
+Author: 'Ratmir Miftachov'
