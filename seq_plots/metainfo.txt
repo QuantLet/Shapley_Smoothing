@@ -1,9 +1,0 @@
-Name of Quantlet: 'seq_plots'
-
-Published in: ''
-
-Description: 'Sequential Shapley curves as described in the paper.'
-
-Keywords: 'Shapley curves, sequential, vehicle prices'
-
-Author: 'Ratmir Miftachov'
