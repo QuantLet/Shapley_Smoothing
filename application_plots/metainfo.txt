@@ -1,0 +1,9 @@
+Name of Quantlet: 'application_plots'
+
+Published in: ''
+
+Description: 'Application plots: Boxplots, slide plots with CI, density plots, 3d plots'
+
+Keywords: 'Shapley curves, plots, vehicle prices'
+
+Author: 'Ratmir Miftachov'
